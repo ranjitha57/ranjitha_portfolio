@@ -4,7 +4,7 @@ class StringConst {
   static const String linkedInUrl = 'https://www.linkedin.com/in/ranjitha-a-5aa4a7235/';
   static const String gitHubUrl = 'https://github.com/ranjitha57';
   static const String mailId = 'ranjithaarunagiri21@gmail.com';
-  static const String resumeUrl = 'https://drive.google.com/file/d/1K4AW-zCNcIN3Hm8sXas-Ouxky-_z7nq7/view?usp=sharing';
+  static const String resumeUrl = 'https://drive.google.com/file/d/11g-TdFN-09n5VjSlVlC4L_qInrudwRnb/view?usp=sharing';
 
   /// app const
   static const String home = 'Home';
@@ -36,11 +36,11 @@ class StringConst {
   static const String welcome = 'Hi there, Welcome to My Portfolio';
   static const String couldNotLaunch = 'Could not launch';
   static const String aboutMe = "About Me";
-  static const String build = "Build with Flutter by ";
+  static const String build = "Built with Flutter by ";
   static const String rolesAndRes = "Roles & Responsibilities";
 
   static const String passinateDeveloper =
-      "Thank you for visiting my portfolio! I am a Flutter developer with two years of experience, focused on creating high-quality applications for Android,iOS and Web. I ensure responsive designs and deliver excellent user experiences. I can build apps from scratch and handle the entire process up to publishing on the App Store and Google Play Store. Additionally, I am available for freelance projects. Let's connect and make your ideas a reality!";
+      "Thank you for visiting my portfolio! I am a Flutter developer with three years of experience, focused on creating high-quality applications for Android,iOS and Web. I ensure responsive designs and deliver excellent user experiences. I can build apps from scratch and handle the entire process up to publishing on the App Store and Google Play Store. Additionally, I am available for freelance projects. Let's connect and make your ideas a reality!";
   static const String path = "Currently, I'm exploring fresh career paths.!";
   static const String letsConnect =
       'You can also connect with me here - let\'s stay in touch!';

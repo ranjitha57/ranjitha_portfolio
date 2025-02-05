@@ -12,6 +12,10 @@ List<Skill> skills = [
     ImagePath.getx,
   ),
   Skill(
+    StringConst.bloc,
+    ImagePath.bloc,
+  ),
+  Skill(
     StringConst.provider,
     ImagePath.provider,
   ),
